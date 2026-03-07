@@ -1,0 +1,16 @@
+# AutoGluon training artifacts
+AutogluonModels/
+
+# Raw / processed data (too large for git)
+data/
+
+# CatBoost training logs
+catboost_info/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Pickle models
+*.pkl
